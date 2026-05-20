@@ -1,0 +1,4 @@
+[2026-05-18 08:07:14] Precio Original: $150.0 | Descuento: 20.0% | Precio Final: $120.0
+[2026-05-18 08:08:19] Precio Original: $500.0 | Descuento: 80.0% | Precio Final: $95.0
+[2026-05-18 08:11:07] ERROR: El descuento debe estar entre 0 y 100.
+[2026-05-18 08:11:29] ERROR: El precio original debe ser positivo.

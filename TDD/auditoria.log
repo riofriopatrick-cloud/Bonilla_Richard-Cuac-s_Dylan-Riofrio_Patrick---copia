@@ -1,0 +1,57 @@
+2026-05-18 08:32:11 | CRITICAL | No se pudo importar 'descuento.py': cannot import name 'aplicar_descuento' from 'descuento' (c:\Users\HP\Documents\Bonilla_Richard-Cuacés_Dylan-Riofrio_Patrick\descuento.py)
+2026-05-18 08:32:26 | INFO     | Módulo 'descuento.py' importado correctamente.
+2026-05-18 08:32:26 | CRITICAL | No se pudo importar 'main.py': cannot import name 'ejecutar' from 'main' (c:\Users\HP\Documents\Bonilla_Richard-Cuacés_Dylan-Riofrio_Patrick\main.py)
+2026-05-18 08:34:42 | INFO     | Módulo 'descuento.py' importado correctamente.
+2026-05-18 08:34:42 | INFO     | Módulo 'main.py' importado correctamente.
+2026-05-18 08:34:42 | INFO     | ============================================================
+2026-05-18 08:34:42 | INFO     | INICIO DE SUITE — 2026-05-18 08:34:42
+2026-05-18 08:34:42 | INFO     | ============================================================
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_100_porciento
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_100_porciento
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_10_porciento
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_10_porciento
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_50_porciento
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_50_porciento
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_cero
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_cero
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_mayor_100_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_mayor_100_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_descuento_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_descuento_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestAplicarDescuento.test_precio_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestAplicarDescuento.test_precio_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestCalcularIva.test_iva_cero
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestCalcularIva.test_iva_cero
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestCalcularIva.test_iva_default_12
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestCalcularIva.test_iva_default_12
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestCalcularIva.test_iva_personalizado
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestCalcularIva.test_iva_personalizado
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestCalcularIva.test_iva_precio_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestCalcularIva.test_iva_precio_negativo_lanza_excepcion
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestPrecioFinal.test_calculo_completo
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestPrecioFinal.test_calculo_completo
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestPrecioFinal.test_estructura_resultado
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestPrecioFinal.test_estructura_resultado
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestPrecioFinal.test_precio_cero
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestPrecioFinal.test_precio_cero
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestPrecioFinal.test_sin_descuento_sin_iva
+2026-05-18 08:34:42 | INFO     | ✔ PASÓ  | __main__.TestPrecioFinal.test_sin_descuento_sin_iva
+2026-05-18 08:34:42 | INFO     | INICIO | __main__.TestMain.test_descuento_invalido_no_rompe_programa
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_descuento_invalido_no_rompe_programa
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_ejecutar_retorna_none_o_no_lanza
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_ejecutar_retorna_none_o_no_lanza
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_precio_invalido_no_rompe_programa
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_precio_invalido_no_rompe_programa
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_repetir_calculo
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_repetir_calculo
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_salida_contiene_iva
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_salida_contiene_iva
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_salida_contiene_precio_con_descuento
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_salida_contiene_precio_con_descuento
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_salida_contiene_precio_original
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_salida_contiene_precio_original
+2026-05-18 08:34:43 | INFO     | INICIO | __main__.TestMain.test_salida_contiene_total
+2026-05-18 08:34:43 | INFO     | ✔ PASÓ  | __main__.TestMain.test_salida_contiene_total
+2026-05-18 08:34:43 | INFO     | ------------------------------------------------------------
+2026-05-18 08:34:43 | INFO     | RESUMEN | Total: 23 | ✔ Pasaron: 23 | ✘ Fallaron: 0 | ✘ Errores: 0 | ⚠ Omitidos: 0
+2026-05-18 08:34:43 | INFO     | ============================================================
