@@ -1,4 +1,4 @@
-# main.py
+
 # Interfaz principal del programa de descuentos
 
 from descuento import precio_final
